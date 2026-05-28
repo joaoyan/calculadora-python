@@ -33,11 +33,29 @@ Projeto de calculadora desenvolvido em Python com tratamento de exceções.
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar o projeto
 
-```bash
+### 1. Clone o repositório
+
+```bash id="n4q8tq"
+git clone https://github.com/seuusuario/calculadora-python.git
+```
+
+### 2. Entre na pasta
+
+```bash id="ax2v4p"
+cd calculadora-python
+```
+
+### 3. Execute o arquivo
+
+```bash id="v7q1md"
 python calculadora.py
 ```
+
+---
+
+⚠️ É necessário ter o Python instalado no computador.
 
 ---
 
