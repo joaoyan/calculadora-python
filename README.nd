@@ -1,0 +1,24 @@
+# 🧮 Calculadora em Python
+
+Projeto simples de calculadora desenvolvido em Python com tratamento de exceções.
+
+## 🚀 Funcionalidades
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Tratamento de erros
+- Validação de entrada
+
+## 🛠️ Tecnologias
+
+- Python
+
+## 📚 Conceitos praticados
+
+- Estruturas condicionais
+- Loops
+- Tratamento de exceções
+- Entrada de dados
+- Lógica de programação
