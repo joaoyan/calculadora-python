@@ -99,7 +99,7 @@ calculadora-python/
 ---
 
 ## 👨‍💻 Autor
+Feito por **João Yan**
 
-**João Yan**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoyan/)
 [![GitHub](https://img.shields.io/badge/GitHub-joaoyan-181717?style=flat&logo=github)](https://github.com/joaoyan)
