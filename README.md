@@ -100,6 +100,6 @@ calculadora-python/
 
 ## 👨‍💻 Autor
 
-Feito por **João Yan**
+**João Yan**
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaoyan-181717?style=flat&logo=github)](https://github.com/joaoyan)
